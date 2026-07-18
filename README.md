@@ -1,4 +1,4 @@
-# Landing Page Skills Kit
+# Agente Gerando de Sites
 
 Skills para Claude Code (e outros agentes compatíveis com o [skills.sh](https://skills.sh)) para
 criar landing pages de alta conversão com identidade visual própria — sem "cara de IA" genérica.
@@ -20,7 +20,7 @@ Requer [Node.js](https://nodejs.org) e o [Claude Code](https://docs.anthropic.co
 (ou outro agente suportado pelo `skills` CLI).
 
 ```bash
-npx skills add <seu-usuario>/landing-page-skills-kit
+npx skills add ezequias04/agente-gerando-de-sites
 ```
 
 Isso instala as 3 skills acima no seu projeto atual. Depois, opcionalmente, peça para o agente
